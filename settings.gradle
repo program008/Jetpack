@@ -1,1 +1,1 @@
-include ':app',':android-navigation', ':paging', ':lifecycle', ':sharing', ':emoji',":palettesimple"
+include ':app',':android-navigation', ':paging', ':lifecycle', ':sharing', ':emoji',":palettesimple" ,":viewModelAndLiveData"
