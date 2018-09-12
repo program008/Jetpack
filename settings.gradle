@@ -1,0 +1,1 @@
+include ':app',':android-navigation', ':paging', ':lifecycle', ':sharing', ':emoji',":palettesimple"
